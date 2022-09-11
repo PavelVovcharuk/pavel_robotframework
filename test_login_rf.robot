@@ -8,7 +8,7 @@ ${BROWSER}          Chrome
 ${EMAILINPUT}       xpath=//*[@id='login']
 ${PASSWORDINPUT}    xpath=//*[@id='password']
 ${SIGNINBUTTON}     xpath=//*[text()= 'Sign in']
-${PAGELOGO}    xpath=//*[@id='__next']/div[1]/main/div[3]/div[1]/div/div[1]
+${PAGELOGO}         xpath=//*[@id='__next']/div[1]/main/div[3]/div[1]/div/div[1]
 
 *** Test Cases ***
 Login to the system
